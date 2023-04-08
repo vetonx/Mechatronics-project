@@ -1,0 +1,23 @@
+MINI CHEETAH - STATIC AND DYNAMIC SIMULATION\
+
+##################### Group Project ##################### 
+Authors: Veton Sulejmani, Mattia Sittoni, Nicola Rossi
+Professor: Francesco Biral
+Course: Modelling and Simulation of Mechatronics Systems
+Mechatronics Engineering ,Master Degree (LM-33-Mechanical Engineering)
+University of Trento 
+######################################################### 
+
+
+################### Project contents ###################
+*** Simulation of a quadruped mini cheetah dynamics through Matlab, Maple and MapleSim ***
+Study and design of the dynamics of a Mini Ceetah leg, to be included in a final 4-leg simulation
+of the dynamics. The study includes:
+- application of a static load to the single leg model
+- trajectory construction of walking activity
+- trajectory following via inverse kinematic approach, working space definition
+- landing movement of single leg model
+- jumping control movement
+- backflip simulation of the overall 4-leg model generated
+- application of the model on a MapleSim environment for the complete simulation
+of the backflip movement.
